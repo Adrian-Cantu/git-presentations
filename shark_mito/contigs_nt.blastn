@@ -1,0 +1,46 @@
+tig00000001	gi|19067985|gb|AY049832.1|	93.267	4025	0.0	Galeocerdo cuvier internal transcribed spacer 2, and 28S ribosomal RNA gene, partial sequence	AY049832	3987	9	258	4191
+tig00000001	gi|19067986|gb|AY049833.1|	92.222	1787	0.0	Galeocerdo cuvier 18S ribosomal RNA gene, complete sequence	AY049833	1780	1	9695	11431
+tig00000001	gi|22128507|gb|AF513986.1|	92.538	1300	0.0	Carcharhinus falciformis 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	AF513986	1291	1	3894	5141
+tig00000001	gi|338784686|gb|JN008719.1|	78.607	991	3.89e-152	Rhizoprionodon porosus isolate OC5 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	JN008719	959	1	4365	5278
+tig00000001	gi|165974169|dbj|AB375548.1|	79.609	358	5.76e-56	Triakis scyllium genes for 18S rRNA, ITS1, 5.8S rRNA, partial and complete sequence	AB375548	1242	892	7145	7485
+tig00000001	gi|165974169|dbj|AB375548.1|	87.302	63	1.72e-06	Triakis scyllium genes for 18S rRNA, ITS1, 5.8S rRNA, partial and complete sequence	AB375548	184	123	9508	9570
+tig00000001	gi|1167602264|gb|KY462798.1|	88.764	89	4.71e-17	Ascotremella faginea voucher GM-2015-10-28 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence	KY462798	96	9	9645	9730
+tig00000001	gi|1059793942|gb|AH007407.2|	86.957	92	7.89e-15	Xenopus laevis x.laevis rrna non-transcribed spacer sequence, clone pxl108	AH007407	212	121	214	300
+tig00000001	gi|667700208|gb|KJ522988.1|	92.063	63	1.71e-11	Anolis humilis isolate 38017 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence	KJ522988	1193	1132	5248	5310
+tig00000001	gi|975135419|ref|XM_015428424.1|	97.674	43	1.33e-07	PREDICTED: Gekko japonicus collagen alpha-1(III) chain-like (LOC107124931), partial mRNA	XM_015428424	1	43	11411	11453
+tig00000003	gi|156119673|gb|AC164927.3|	72.456	973	3.78e-68	Ginglymostoma cirratum clone GC_Ba-557B6, complete sequence	AC164927	38782	39736	307	1253
+tig00000003	gi|301128892|emb|FQ032660.1|	96.154	52	1.90e-11	Scyliorhinus canicula Cluster_HOXD sequence	FQ032660	24936	24987	3	53
+tig00000010	gi|456368036|gb|KC470543.1|	93.079	14116	0.0	Carcharhinus obscurus mitochondrion, complete genome	KC470543	1	14102	8310	22174
+tig00000010	gi|456368036|gb|KC470543.1|	91.964	8474	0.0	Carcharhinus obscurus mitochondrion, complete genome	KC470543	8239	16706	1	8309
+tig00000017	gi|858971314|gb|KP128093.1|	81.977	860	0.0	Chiloscyllium punctatum antithrombin (serpinc1) gene, complete cds	KP128093	3920	3078	299	1130
+tig00000017	gi|858971314|gb|KP128093.1|	80.676	828	2.57e-167	Chiloscyllium punctatum antithrombin (serpinc1) gene, complete cds	KP128093	3919	3115	614	1419
+tig00000017	gi|858971314|gb|KP128093.1|	84.818	606	2.59e-162	Chiloscyllium punctatum antithrombin (serpinc1) gene, complete cds	KP128093	3679	3078	1	583
+tig00000019	gi|1016246|gb|U34992.1|CPU34992	90.214	562	0.0	Carcharhinus plumbeus Ig lambda light chain gene, complete cds	U34992	6638	6080	1355	1892
+tig00000026	gi|115334359|dbj|AB254130.1|	81.194	787	1.80e-166	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	4433	5216	15	766
+tig00000026	gi|301128892|emb|FQ032660.1|	94.000	50	1.35e-08	Scyliorhinus canicula Cluster_HOXD sequence	FQ032660	24937	24986	2	50
+tig00000756	gi|115334359|dbj|AB254130.1|	88.043	276	5.14e-84	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	794	1067
+tig00000756	gi|115334359|dbj|AB254130.1|	86.667	285	5.17e-79	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5700	43	321
+tig00000756	gi|115334359|dbj|AB254130.1|	86.397	272	5.21e-74	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	647	915
+tig00000756	gi|115334359|dbj|AB254130.1|	86.296	270	2.42e-72	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	498	760
+tig00000756	gi|115334359|dbj|AB254130.1|	84.783	276	8.78e-67	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	245	509
+tig00000756	gi|115334359|dbj|AB254130.1|	88.587	184	2.49e-52	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5797	999	1177
+tig00000756	gi|301128880|emb|FQ032659.1|	98.276	58	9.42e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	5	61
+tig00000757	gi|115334359|dbj|AB254130.1|	87.365	277	2.04e-79	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	566	835
+tig00000757	gi|115334359|dbj|AB254130.1|	87.868	272	2.04e-79	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	920	1184
+tig00000757	gi|115334359|dbj|AB254130.1|	86.022	279	2.66e-73	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	314	584
+tig00000757	gi|115334359|dbj|AB254130.1|	86.397	272	3.44e-72	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	1071	1333
+tig00000757	gi|115334359|dbj|AB254130.1|	87.295	244	7.45e-69	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5730	1371	1609
+tig00000757	gi|115334359|dbj|AB254130.1|	84.643	280	1.25e-66	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	111	382
+tig00000757	gi|115334359|dbj|AB254130.1|	84.229	279	7.50e-64	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	767	1033
+tig00000757	gi|115334359|dbj|AB254130.1|	83.871	279	3.49e-62	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	1217	1483
+tig00000757	gi|350626506|gb|JN646104.1|	80.745	161	7.94e-24	Triaenodon obesus selenium binding protein 1 (SBP1) mRNA, complete cds	JN646104	2226	2066	1	159
+tig00000757	gi|350626506|gb|JN646104.1|	95.000	40	1.76e-05	Triaenodon obesus selenium binding protein 1 (SBP1) mRNA, complete cds	JN646104	2222	2183	1617	1656
+tig00000758	gi|115334359|dbj|AB254130.1|	86.397	272	2.29e-73	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	255	521
+tig00000758	gi|115334359|dbj|AB254130.1|	86.029	272	1.06e-71	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	104	370
+tig00000758	gi|115334359|dbj|AB254130.1|	83.636	275	5.02e-60	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5710	801	1064
+tig00000758	gi|30578123|dbj|AB074142.1|	90.610	213	4.95e-70	Triakis scyllium IL-1 gene for interleukin-1beta, complete cds	AB074142	3476	3266	1069	1277
+tig00000758	gi|350626506|gb|JN646104.1|	84.568	162	6.72e-34	Triaenodon obesus selenium binding protein 1 (SBP1) mRNA, complete cds	JN646104	2228	2067	642	799
+tig00000758	gi|350626506|gb|JN646104.1|	85.714	147	3.13e-32	Triaenodon obesus selenium binding protein 1 (SBP1) mRNA, complete cds	JN646104	2212	2066	4	147
+tig00000758	gi|350626506|gb|JN646104.1|	91.667	72	4.13e-16	Triaenodon obesus selenium binding protein 1 (SBP1) mRNA, complete cds	JN646104	2229	2159	1346	1417
+tig00000761	gi|27549546|gb|AY172838.1|	91.222	1105	0.0	Carcharhinus plumbeus recombination activating gene 1 (RAG1) gene, partial cds; and recombination activating gene 2 (RAG2) gene, complete cds	AY172838	8301	7199	1150	2203
+tig00000762	gi|27549546|gb|AY172838.1|	93.859	1091	0.0	Carcharhinus plumbeus recombination activating gene 1 (RAG1) gene, partial cds; and recombination activating gene 2 (RAG2) gene, complete cds	AY172838	8297	7207	499	1563
