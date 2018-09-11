@@ -1,0 +1,37 @@
+tRNA-Phe	gi|545690073|gb|KF356249.1|	97.10	69	1e-22	Prionace glauca	Prionace glauca mitochondrion, complete genome	KF356249	1	69	1	68
+12S	gi|576864484|gb|KF801102.1|	99.48	957	0.0	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	1133	2088	1	953
+tRNA-Val	gi|42740928|gb|AY462148.1|	97.26	73	7e-25	Carcharhinus amblyrhynchos	Carcharhinus amblyrhynchos voucher MNHN 2002-1183 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial	AY462148	25	96	1	73
+16S	gi|727354678|gb|KM244770.1|	97.31	1670	0.0	Carcharhinus brevipinna	Carcharhinus brevipinna mitochondrion, complete genome	KM244770	1098	2767	1	1659
+tRNA-Leu	gi|456368036|gb|KC470543.1|	100.00	75	8e-30	Carcharhinus obscurus	Carcharhinus obscurus mitochondrion, complete genome	KC470543	2769	2843	1	75
+ND1	gi|576864484|gb|KF801102.1|	99.62	527	0.0	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	4294	4820	1	525
+tRNA-Ile	gi|576864484|gb|KF801102.1|	100.00	70	4e-27	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	4997	5066	1	70
+tRNA-Gln	gi|576864484|gb|KF801102.1|	100.00	69	2e-26	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	5136	5068	3	71
+tRNA-Met	gi|395133212|gb|JQ599316.1|	98.55	69	2e-24	Mustelus widodoi	Mustelus widodoi isolate 1 tRNA-Gln gene, partial sequence; tRNA-Met gene, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial	JQ599316	23	91	1	68
+ND2	gi|576864484|gb|KF801102.1|	99.12	227	8e-110	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	5294	5520	1	225
+tRNA-Trp	gi|456368036|gb|KC470543.1|	100.00	71	1e-27	Carcharhinus obscurus	Carcharhinus obscurus mitochondrion, complete genome	KC470543	5075	5145	1	71
+tRNA-Ala	gi|576864484|gb|KF801102.1|	100.00	69	1e-26	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	6393	6325	1	69
+tRNA-Asn	gi|456368036|gb|KC470543.1|	98.63	73	2e-26	Carcharhinus obscurus	Carcharhinus obscurus mitochondrion, complete genome	KC470543	5288	5216	1	72
+tRNA-Cys	gi|576864484|gb|KF801102.1|	97.06	68	4e-22	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	6569	6502	1	66
+tRNA-Tyr	gi|576864484|gb|KF801102.1|	100.00	69	1e-26	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	6639	6571	1	69
+COI	gi|576864484|gb|KF801102.1|	99.10	774	0.0	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	6655	7428	1	768
+tRNA-Ser	gi|576864484|gb|KF801102.1|	100.00	71	1e-27	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	8268	8198	1	71
+tRNA-Asp	gi|456368036|gb|KC470543.1|	100.00	70	4e-27	Carcharhinus obscurus	Carcharhinus obscurus mitochondrion, complete genome	KC470543	7094	7163	1	70
+COII	gi|576864484|gb|KF801102.1|	98.88	267	1e-129	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	8344	8610	1	264
+tRNA-Lys	gi|409107907|gb|JX827259.1|	100.00	74	3e-29	Sphyrna lewini	Sphyrna lewini mitochondrion, complete genome	JX827259	7862	7935	1	74
+ATPase	gi|576864484|gb|KF801102.1|	97.24	145	1e-60	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	9138	9282	1	141
+ATPase	gi|677284693|gb|KJ865755.1|	94.31	685	0.0	Carcharhinus macloti	Carcharhinus macloti mitochondrion, complete genome	KJ865755	8090	8773	1	678
+COIII	gi|576864484|gb|KF801102.1|	97.98	744	0.0	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	10084	10825	1	732
+tRNA-Gly	gi|456368036|gb|KC470543.1|	95.71	70	1e-21	Carcharhinus obscurus	Carcharhinus obscurus mitochondrion, complete genome	KC470543	9566	9635	1	68
+ND3	gi|576864484|gb|KF801102.1|	98.10	211	5e-97	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	10992	11202	1	207
+tRNA-Arg	gi|576864484|gb|KF801102.1|	100.00	70	4e-27	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	11247	11316	1	70
+ND4L	gi|576864484|gb|KF801102.1|	97.63	295	2e-137	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	11328	11622	1	288
+ND4	gi|576864484|gb|KF801102.1|	98.56	975	0.0	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	11669	12642	1	963
+tRNA-His	gi|576864484|gb|KF801102.1|	98.53	68	8e-24	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	12988	13055	1	67
+tRNA-Ser	gi|657267641|gb|KJ004547.1|	100.00	65	2e-24	Carcharhinus obscurus	Carcharhinus obscurus haplotype DS14 NADH dehydrogenase subunit 4 (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete sequence; and tRNA-Leu gene, partial sequence; mitochondrial	KJ004547	766	830	1	65
+tRNA-Leu	gi|456368036|gb|KC470543.1|	97.22	72	2e-24	Carcharhinus obscurus	Carcharhinus obscurus mitochondrion, complete genome	KC470543	11862	11933	1	70
+ND5	gi|576864484|gb|KF801102.1|	98.77	815	0.0	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	13196	14010	1	807
+ND6	gi|576864484|gb|KF801102.1|	96.67	300	3e-135	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	15426	15127	1	292
+tRNA-Glu	gi|576864484|gb|KF801102.1|	100.00	70	4e-27	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	15612	15543	1	70
+Cyt	gi|576864484|gb|KF801102.1|	99.37	477	0.0	Carcharhinus falciformis	Carcharhinus falciformis mitochondrion, partial genome	KF801102	15622	16098	1	474
+tRNA-Thr	gi|456368036|gb|KC470543.1|	97.22	72	2e-24	Carcharhinus obscurus	Carcharhinus obscurus mitochondrion, complete genome	KC470543	15498	15569	1	70
+tRNA-Pro	gi|456368036|gb|KC470543.1|	97.18	71	9e-24	Carcharhinus obscurus	Carcharhinus obscurus mitochondrion, complete genome	KC470543	15641	15571	1	69
