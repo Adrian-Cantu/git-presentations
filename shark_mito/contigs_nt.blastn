@@ -1,135 +1,28 @@
 tig00000001	gi|19067985|gb|AY049832.1|	93.27	4025	0.0	Galeocerdo cuvier internal transcribed spacer 2, and 28S ribosomal RNA gene, partial sequence	AY049832	3987	9	258	4191
 tig00000001	gi|19067986|gb|AY049833.1|	92.22	1787	0.0	Galeocerdo cuvier 18S ribosomal RNA gene, complete sequence	AY049833	1780	1	9695	11431
-tig00000001	gi|501418415|gb|KC686343.1|	86.01	2358	0.0	Oncorhynchus mykiss clone 450D22 zinc finger CCHC domain-containing protein 3 pseudogene, complete sequence	KC686343	9561	11890	1628	3915
-tig00000001	gi|501418415|gb|KC686343.1|	88.33	1354	0.0	Oncorhynchus mykiss clone 450D22 zinc finger CCHC domain-containing protein 3 pseudogene, complete sequence	KC686343	7951	9293	214	1523
-tig00000001	gi|1220469783|gb|CP020797.1|	89.89	1602	0.0	Oryzias latipes strain HNI chromosome 19	CP020797	954244	955840	9671	11218
-tig00000001	gi|22128507|gb|AF513986.1|	92.54	1300	0.0	Carcharhinus falciformis 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	AF513986	1291	1	3894	5141
-tig00000001	gi|840013939|emb|LK065000.1|	85.88	793	0.0	Apteryx australis mantelli genome assembly AptMant0, scaffold scaffold418	LK065000	66965	67746	10687	11454
-tig00000001	gi|1032033216|gb|KX121612.1|	88.91	487	1e-162	Mus musculus clone contig 3 chromocenter region genomic sequence	KX121612	136	620	3433	3909
-tig00000001	gi|1032033216|gb|KX121612.1|	91.35	185	7e-60	Mus musculus clone contig 3 chromocenter region genomic sequence	KX121612	1702	1885	5129	5308
-tig00000001	gi|338784686|gb|JN008719.1|	78.61	991	4e-152	Rhizoprionodon porosus isolate OC5 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	JN008719	959	1	4365	5278
-tig00000001	gi|685044968|emb|LN593493.1|	85.29	571	2e-150	Cyprinus carpio genome assembly common carp genome ,scaffold 000001641	LN593493	62005	62540	452	1014
-tig00000001	gi|165974169|dbj|AB375548.1|	79.61	358	6e-56	Triakis scyllium genes for 18S rRNA, ITS1, 5.8S rRNA, partial and complete sequence	AB375548	1242	892	7145	7485
-tig00000001	gi|165974169|dbj|AB375548.1|	87.30	63	2e-06	Triakis scyllium genes for 18S rRNA, ITS1, 5.8S rRNA, partial and complete sequence	AB375548	184	123	9508	9570
-tig00000001	gi|1220469770|gb|CP020784.1|	76.00	350	6e-31	Oryzias latipes strain HNI chromosome 6	CP020784	21720364	21720702	225	554
-tig00000001	gi|1167602264|gb|KY462798.1|	89.53	86	5e-17	Ascotremella faginea voucher GM-2015-10-28 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence	KY462798	96	12	9645	9727
-tig00000001	gi|1059793942|gb|AH007407.2|	88.37	86	8e-15	Xenopus laevis x.laevis rrna non-transcribed spacer sequence, clone pxl108	AH007407	212	127	214	294
-tig00000001	gi|690413466|emb|LM976901.1|	91.30	69	1e-12	Protopolystoma xenopodis genome assembly P_xenopodis_South_Africa ,scaffold PXEA_contig0228254	LM976901	45	111	1554	1620
-tig00000001	gi|667700208|gb|KJ522988.1|	92.06	63	2e-11	Anolis humilis isolate 38017 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence	KJ522988	1193	1132	5248	5310
-tig00000001	gi|110277094|gb|DQ660358.1|	97.44	39	2e-05	Dicentrarchus labrax clone 436 28S ribosomal RNA gene, partial sequence; 3' external transcribed spacer, intergenic spacer, and 5' external transcribed spacer, complete sequence; and 18S ribosomal RNA gene, partial sequence	DQ660358	2243	2205	11416	11454
 tig00000003	gi|156119673|gb|AC164927.3|	72.46	973	4e-68	Ginglymostoma cirratum clone GC_Ba-557B6, complete sequence	AC164927	38782	39736	307	1253
 tig00000003	gi|301128892|emb|FQ032660.1|	96.15	52	2e-11	Scyliorhinus canicula Cluster_HOXD sequence	FQ032660	24936	24987	3	53
-tig00000003	gi|20197405|gb|AC005561.3|	91.30	46	9e-05	Arabidopsis thaliana chromosome 2 clone T9F8 map mi310, complete sequence	AC005561	32479	32435	1	45
 tig00000010	gi|456368036|gb|KC470543.1|	93.08	14116	0.0	Carcharhinus obscurus mitochondrion, complete genome	KC470543	1	14102	8310	22174
 tig00000010	gi|456368036|gb|KC470543.1|	91.96	8474	0.0	Carcharhinus obscurus mitochondrion, complete genome	KC470543	8239	16706	1	8309
 tig00000010	gi|1382859157|gb|MG912791.1|	73.40	7698	0.0	Chelonoidis duncanensis isolate 8291 mitochondrion, partial genome	MG912791	14022	6492	10735	18206
-tig00000010	gi|545484876|gb|KC992998.1|	77.87	2910	0.0	Poecilia mexicana limantouri mitochondrion, partial genome	KC992998	11334	8442	13352	16210
-tig00000010	gi|1034703429|gb|KX129904.1|	73.45	4626	0.0	Channa micropeltes mitochondrion, complete genome	KX129904	5069	541	8381	12875
-tig00000010	gi|1034703429|gb|KX129904.1|	73.65	1533	5e-145	Channa micropeltes mitochondrion, complete genome	KX129904	7721	6213	5632	7121
-tig00000010	gi|1276851520|gb|MG241667.1|	93.63	942	0.0	Carcharhinus galapagensis voucher CB7 D-loop, partial sequence; mitochondrial	MG241667	940	1	7323	8238
-tig00000010	gi|1018242234|dbj|LC137015.1|	75.11	1816	0.0	Salmo trutta fario mitochondrial DNA, complete genome, collection_date: 2014-11-19	LC137015	14427	12645	8790	10545
-tig00000010	gi|359300992|gb|JN315440.1|	90.02	591	0.0	Sphyrna lewini isolate 107 cytochrome c oxidase subunit I gene, partial cds; mitochondrial	JN315440	591	1	13757	14343
-tig00000010	gi|1000233674|gb|KT696221.1|	75.65	1084	6e-135	Hydrophilidae sp. BMNH 1274335 mitochondrion, partial genome	KT696221	13792	12727	14081	15137
-tig00000010	gi|1182510757|gb|KY117585.1|	73.61	1133	2e-104	Sundamys muelleri mitochondrion, complete genome	KY117585	3162	2046	5926	7031
-tig00000010	gi|1269216117|gb|MF573068.1|	73.67	1128	3e-102	Capra hircus mitochondrion, complete genome	MF573068	8394	7289	245	1340
-tig00000010	gi|1353793188|gb|CP027098.1|	74.97	831	1e-91	Bos mutus isolate yakQH1 chromosome X	CP027098	108172975	108172155	20311	21119
-tig00000010	gi|955487831|ref|XR_001389697.1|	75.25	804	6e-90	PREDICTED: Ceratotherium simum simum uncharacterized LOC106800237 (LOC106800237), ncRNA	XR_001389697	825	41	3919	4704
-tig00000010	gi|1033989031|gb|KX061088.1|	76.09	686	2e-84	Pseudolyciella stylata isolate MO013e cytochrome oxidase subunit I gene, partial cds; mitochondrial	KX061088	801	130	14435	15102
-tig00000010	gi|27463608|gb|AF508069.1|	82.28	378	5e-81	Puntius sophore 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product	AF508069	415	39	8806	9175
-tig00000010	gi|850496270|gb|CP011912.1|	71.65	984	5e-76	Ovis canadensis canadensis isolate 43U chromosome X sequence	CP011912	50685306	50684337	3860	4817
-tig00000010	gi|1182510771|gb|KY117583.1|	71.70	1279	3e-68	Sundamys infraluteus mitochondrion, partial genome	KY117583	3441	2187	16581	17795
-tig00000010	gi|438879|gb|L24776.1|RATTPMGA	84.54	207	4e-47	Rattus norvegicus tropomyosin non-muscle isoform NM3 (TPM-gamma) mRNA, complete cds	L24776	1060	854	11656	11862
-tig00000010	gi|31505609|gb|AY288049.1|	79.57	186	6e-25	Bufo woodhousii isolate 1TR cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product	AY288049	188	4	6763	6947
 tig00000017	gi|858971314|gb|KP128093.1|	81.98	860	0.0	Chiloscyllium punctatum antithrombin (serpinc1) gene, complete cds	KP128093	3920	3078	299	1130
 tig00000017	gi|858971314|gb|KP128093.1|	81.18	797	9e-167	Chiloscyllium punctatum antithrombin (serpinc1) gene, complete cds	KP128093	3920	3148	645	1419
-tig00000017	gi|858971314|gb|KP128093.1|	84.82	606	3e-162	Chiloscyllium punctatum antithrombin (serpinc1) gene, complete cds	KP128093	3679	3078	1	583
 tig00000019	gi|1016246|gb|U34992.1|CPU34992	90.21	562	0.0	Carcharhinus plumbeus Ig lambda light chain gene, complete cds	U34992	6638	6080	1355	1892
 tig00000019	gi|41469002|gb|AC144758.2|	88.68	53	3e-04	Danio rerio, complete sequence	AC144758	30664	30714	1637	1686
 tig00000026	gi|115334359|dbj|AB254130.1|	81.19	787	2e-166	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	4433	5216	15	766
 tig00000026	gi|301128892|emb|FQ032660.1|	94.00	50	1e-08	Scyliorhinus canicula Cluster_HOXD sequence	FQ032660	24937	24986	2	50
 tig00000756	gi|115334359|dbj|AB254130.1|	88.04	276	5e-84	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	794	1067
 tig00000756	gi|115334359|dbj|AB254130.1|	87.10	279	5e-79	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	43	315
-tig00000756	gi|115334359|dbj|AB254130.1|	86.40	272	5e-74	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	647	915
-tig00000756	gi|115334359|dbj|AB254130.1|	86.30	270	2e-72	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	498	760
-tig00000756	gi|115334359|dbj|AB254130.1|	84.59	279	3e-66	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	193	461
-tig00000756	gi|115334359|dbj|AB254130.1|	88.59	184	2e-52	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5797	999	1177
 tig00000756	gi|301128880|emb|FQ032659.1|	98.31	59	3e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	205	263
 tig00000756	gi|301128880|emb|FQ032659.1|	98.31	59	3e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	652	710
-tig00000756	gi|301128880|emb|FQ032659.1|	98.31	59	3e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	754	812
-tig00000756	gi|301128880|emb|FQ032659.1|	98.28	58	3e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	806	863
-tig00000756	gi|301128880|emb|FQ032659.1|	98.31	59	3e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	857	915
-tig00000756	gi|301128880|emb|FQ032659.1|	98.31	59	3e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	909	967
-tig00000756	gi|301128880|emb|FQ032659.1|	98.28	58	3e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	1112	1169
-tig00000756	gi|301128880|emb|FQ032659.1|	98.28	58	9e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	5	61
-tig00000756	gi|301128880|emb|FQ032659.1|	96.61	59	1e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	104	162
-tig00000756	gi|301128880|emb|FQ032659.1|	96.61	59	1e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	257	315
-tig00000756	gi|301128880|emb|FQ032659.1|	96.55	58	1e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	357	414
-tig00000756	gi|301128880|emb|FQ032659.1|	94.83	58	6e-14	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	553	610
-tig00000756	gi|301128880|emb|FQ032659.1|	94.92	59	2e-13	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	503	559
-tig00000756	gi|301128880|emb|FQ032659.1|	94.92	59	2e-13	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	704	760
-tig00000756	gi|301128880|emb|FQ032659.1|	94.92	59	2e-13	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	1011	1067
-tig00000756	gi|301128880|emb|FQ032659.1|	94.83	58	7e-13	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	455	509
-tig00000756	gi|301128880|emb|FQ032659.1|	94.83	58	7e-13	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	604	658
-tig00000756	gi|301128880|emb|FQ032659.1|	93.22	59	9e-12	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	65153	65211	55	110
-tig00000756	gi|301128880|emb|FQ032659.1|	93.10	58	3e-11	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	309	363
-tig00000756	gi|1379072074|gb|MH015179.1|	90.91	77	3e-16	Scyliorhinus canicula Fam45a protein (Fam45a), Eif3a protein (Eif3a), and Nanos1A protein (Nanos1A) genes, complete cds	MH015179	43947	43871	438	509
-tig00000756	gi|1379072074|gb|MH015179.1|	93.65	63	2e-14	Scyliorhinus canicula Fam45a protein (Fam45a), Eif3a protein (Eif3a), and Nanos1A protein (Nanos1A) genes, complete cds	MH015179	43933	43871	1	61
-tig00000756	gi|1379072074|gb|MH015179.1|	89.58	48	2e-04	Scyliorhinus canicula Fam45a protein (Fam45a), Eif3a protein (Eif3a), and Nanos1A protein (Nanos1A) genes, complete cds	MH015179	16460	16507	1071	1117
 tig00000757	gi|115334359|dbj|AB254130.1|	87.36	277	2e-79	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	566	835
 tig00000757	gi|115334359|dbj|AB254130.1|	87.87	272	2e-79	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	920	1184
-tig00000757	gi|115334359|dbj|AB254130.1|	86.02	279	3e-73	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	314	584
-tig00000757	gi|115334359|dbj|AB254130.1|	86.40	272	3e-72	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	1071	1333
-tig00000757	gi|115334359|dbj|AB254130.1|	87.30	244	7e-69	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5730	1371	1609
-tig00000757	gi|115334359|dbj|AB254130.1|	84.64	280	1e-66	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	111	382
-tig00000757	gi|115334359|dbj|AB254130.1|	84.23	279	8e-64	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	767	1033
-tig00000757	gi|115334359|dbj|AB254130.1|	83.87	279	3e-62	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5706	1217	1483
 tig00000757	gi|350626506|gb|JN646104.1|	80.75	161	8e-24	Triaenodon obesus selenium binding protein 1 (SBP1) mRNA, complete cds	JN646104	2226	2066	1	159
 tig00000757	gi|350626506|gb|JN646104.1|	95.00	40	2e-05	Triaenodon obesus selenium binding protein 1 (SBP1) mRNA, complete cds	JN646104	2222	2183	1617	1656
-tig00000757	gi|301128880|emb|FQ032659.1|	100.00	58	8e-19	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	728	785
-tig00000757	gi|301128880|emb|FQ032659.1|	100.00	58	8e-19	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	1178	1235
-tig00000757	gi|301128880|emb|FQ032659.1|	100.00	57	3e-18	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78982	79038	1376	1432
-tig00000757	gi|301128880|emb|FQ032659.1|	98.31	59	1e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	65153	65211	71	129
-tig00000757	gi|301128880|emb|FQ032659.1|	98.31	59	1e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	65153	65211	478	536
-tig00000757	gi|301128880|emb|FQ032659.1|	98.31	59	1e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	65153	65211	975	1033
-tig00000757	gi|301128880|emb|FQ032659.1|	98.31	59	1e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	65153	65211	1076	1134
-tig00000757	gi|301128880|emb|FQ032659.1|	100.00	55	4e-17	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79035	376	430
-tig00000757	gi|301128880|emb|FQ032659.1|	98.28	58	1e-16	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	276	332
-tig00000757	gi|301128880|emb|FQ032659.1|	96.55	58	2e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	627	684
-tig00000757	gi|301128880|emb|FQ032659.1|	96.55	58	2e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	1477	1534
-tig00000757	gi|301128880|emb|FQ032659.1|	96.55	58	6e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	326	382
-tig00000757	gi|301128880|emb|FQ032659.1|	96.55	58	6e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	876	931
-tig00000757	gi|301128880|emb|FQ032659.1|	96.55	58	6e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	925	981
-tig00000757	gi|301128880|emb|FQ032659.1|	94.92	59	8e-14	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	19	77
-tig00000757	gi|301128880|emb|FQ032659.1|	94.92	59	8e-14	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	427	484
-tig00000757	gi|301128880|emb|FQ032659.1|	94.83	58	8e-14	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	1426	1483
-tig00000757	gi|301128880|emb|FQ032659.1|	94.83	58	3e-13	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	578	633
-tig00000757	gi|301128880|emb|FQ032659.1|	94.92	59	3e-13	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	779	835
-tig00000757	gi|301128880|emb|FQ032659.1|	94.83	58	3e-13	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	1027	1082
-tig00000757	gi|301128880|emb|FQ032659.1|	94.83	58	3e-13	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	1229	1284
-tig00000757	gi|301128880|emb|FQ032659.1|	93.22	59	4e-12	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	173	231
-tig00000757	gi|301128880|emb|FQ032659.1|	87.93	58	5e-06	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	530	584
-tig00000757	gi|301128880|emb|FQ032659.1|	86.44	59	2e-04	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	829	882
-tig00000757	gi|1379072074|gb|MH015179.1|	96.61	59	2e-15	Scyliorhinus canicula Fam45a protein (Fam45a), Eif3a protein (Eif3a), and Nanos1A protein (Nanos1A) genes, complete cds	MH015179	1749	1807	123	179
 tig00000758	gi|115334359|dbj|AB254130.1|	86.40	272	2e-73	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	255	521
 tig00000758	gi|115334359|dbj|AB254130.1|	86.03	272	1e-71	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5973	5706	104	370
-tig00000758	gi|115334359|dbj|AB254130.1|	83.64	275	5e-60	Sphyrna lewini GRLN gene for preproghrelin, complete cds	AB254130	5980	5710	801	1064
 tig00000758	gi|30578123|dbj|AB074142.1|	90.61	213	5e-70	Triakis scyllium IL-1 gene for interleukin-1beta, complete cds	AB074142	3476	3266	1069	1277
-tig00000758	gi|350626506|gb|JN646104.1|	84.57	162	7e-34	Triaenodon obesus selenium binding protein 1 (SBP1) mRNA, complete cds	JN646104	2228	2067	642	799
-tig00000758	gi|350626506|gb|JN646104.1|	85.71	147	3e-32	Triaenodon obesus selenium binding protein 1 (SBP1) mRNA, complete cds	JN646104	2212	2066	4	147
-tig00000758	gi|350626506|gb|JN646104.1|	92.75	69	4e-16	Triaenodon obesus selenium binding protein 1 (SBP1) mRNA, complete cds	JN646104	2229	2162	1346	1414
-tig00000758	gi|301128880|emb|FQ032659.1|	96.67	60	4e-16	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	1218	1277
-tig00000758	gi|301128880|emb|FQ032659.1|	96.61	59	1e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	8	66
-tig00000758	gi|301128880|emb|FQ032659.1|	96.61	59	1e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	159	217
-tig00000758	gi|301128880|emb|FQ032659.1|	96.61	59	1e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	260	318
-tig00000758	gi|301128880|emb|FQ032659.1|	96.61	59	1e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	312	370
-tig00000758	gi|301128880|emb|FQ032659.1|	96.55	58	1e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	413	470
-tig00000758	gi|301128880|emb|FQ032659.1|	96.61	59	1e-15	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	1117	1175
-tig00000758	gi|301128880|emb|FQ032659.1|	94.92	59	2e-14	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78980	79038	862	920
-tig00000758	gi|301128880|emb|FQ032659.1|	95.00	60	2e-14	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	962	1021
-tig00000758	gi|301128880|emb|FQ032659.1|	94.92	59	2e-13	Scyliorhinus canicula Cluster_HOXB sequence	FQ032659	78981	79038	109	165
-tig00000758	gi|1160132575|ref|XR_002258344.1|	88.89	63	2e-09	PREDICTED: Rhincodon typus uncharacterized LOC109913723 (LOC109913723), ncRNA	XR_002258344	1	62	1361	1423
 tig00000761	gi|27549546|gb|AY172838.1|	91.29	1102	0.0	Carcharhinus plumbeus recombination activating gene 1 (RAG1) gene, partial cds; and recombination activating gene 2 (RAG2) gene, complete cds	AY172838	8301	7202	1150	2200
 tig00000761	gi|339895689|dbj|AB571627.1|	77.46	417	2e-56	Ginglymostoma cirratum ZFP112, b2m, brd2 genes for similar to zinc finger protein 112, beta 2 microglobulin, bromodomain containing 2, complete cds	AB571627	74638	75051	1793	2194
 tig00000762	gi|27549546|gb|AY172838.1|	93.86	1091	0.0	Carcharhinus plumbeus recombination activating gene 1 (RAG1) gene, partial cds; and recombination activating gene 2 (RAG2) gene, complete cds	AY172838	8297	7207	499	1563
 tig00000762	gi|339895689|dbj|AB571627.1|	78.47	418	1e-63	Ginglymostoma cirratum ZFP112, b2m, brd2 genes for similar to zinc finger protein 112, beta 2 microglobulin, bromodomain containing 2, complete cds	AB571627	74638	75051	1159	1562
-tig00000762	gi|262360117|gb|AC238881.1|	89.09	55	7e-07	Callorhinchus milii BAC clone IMCB_Eshark-67H12 from chromosome unknown, complete sequence	AC238881	102151	102205	1305	1359
