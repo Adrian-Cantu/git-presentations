@@ -1,2 +1,3 @@
 *.p
 !M693a_final/*.p
+__pycache__/
