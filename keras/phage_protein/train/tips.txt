@@ -1,0 +1,4 @@
+strip all outputs
+jupyter nbconvert --ClearOutputPreprocessor.enabled=True --clear-output *.ipynb
+
+
