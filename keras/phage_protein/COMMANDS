@@ -1,0 +1,6 @@
+Train all neural networks
+
+ls *pynb | grep -v test_all | xargs -t -I{file} jupyter nbconvert --to notebook --inplace --ExecutePreprocessor.kernel_name=tensorflow_p36 --ExecutePreprocessor.timeout=0  --execute {file}
+
+
+
