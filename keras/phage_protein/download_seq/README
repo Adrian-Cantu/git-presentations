@@ -1,0 +1,16 @@
+cat all/clean/*fasta | perl -lpe 'BEGIN{$i=1} $i++ if s/^>.*$/>$i#vi#/;' > others/clean_cat.fasta
+
+
+formas, generate an index to get names back and remouve sequences with stop codons
+cat all_phage_orf_pat.faa | perl -lpe 'BEGIN{$i=1} if (/^>/) { print STDERR ">$i\_pat_\t$_"; s/^>.*$/>$i\_pat_/;$i++;} ' 2> indexed_all_phage_orf_pat.index | perl -pe 'chomp unless (/^>/)' | perl -lpe 's/(?<=.)>/\n>/' | paste - - | grep -v '*' | tr '\t' '\n' > indexed_all_phage_orf_pat.fasta
+
+cat indexed_all_phage_orf_pat.fasta clean_cat.fasta | sed '/^$/d' > pat_plus_clean.fastai
+
+cdhit -i pat_plus_clean.fasta -o hitmix.fasta -M 1 -T 0 -c  0.6 -n 3 | tee  errlog
+
+
+all_database.7z has all sequences downloaded
+
+all_clean_database.7z sequences after manual curation
+
+all_clustered_database.7z sequences clustered to 90%
