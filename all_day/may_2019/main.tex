@@ -42,7 +42,7 @@
 
 
 \begin{frame}{BacterioPhage}
-\includegraphics[width=0.90\textwidth]{img01}
+\includegraphics[width=0.70\textwidth]{img01}
 \end{frame}
 
 \begin{frame}{Databases}
@@ -101,7 +101,7 @@ Z_2\\
 \vdots\\ 
 \vdots\\ 
 \vdots\\ 
-Z_{410}\\ 
+Z_{408}\\ 
 \end{pmatrix}
 \begin{matrix}
 \\ 
@@ -128,7 +128,8 @@ Y_6\\
 Y_7\\ 
 Y_8\\ 
 Y_{9}\\ 
-Y_{10}
+Y_{10}\\
+Y_{11}
 \end{pmatrix}
 \begin{matrix}
 \\ 
@@ -144,17 +145,32 @@ Y_{10}
 \\ 
 \end{matrix}
 $$
-where $\sum_{n=1}^{10}Y_n=1$
+where $\sum_{n=1}^{11}Y_n=1$
 \end{minipage}
 \end{frame}
 
 \begin{frame}{The 'black box' function}
 \scalebox{0.7}{%
-$F(X)=\underbrace{[10*200]}_{W_3}\left(\underbrace{[200*200]}_{W_2}\left(\underbrace{[200*407]}_{W_1}\underbrace{[407*1]}_X+\underbrace{[200*1]}_{\delta_1}\right)+\underbrace{[200*10]}_{\delta_2}\right)+\underbrace{[10*1]}_{\delta_1}
+$Y=F(X)=\underbrace{[10*200]}_{W_3}\left(\underbrace{[200*200]}_{W_2}\left(\underbrace{[200*408]}_{W_1}\underbrace{[408*1]}_X+\underbrace{[200*1]}_{\delta_1}\right)+\underbrace{[200*10]}_{\delta_2}\right)+\underbrace{[10*1]}_{\delta_1}
 $} \\
 \begin{center}
 289,866 Trainable parameters
 \end{center}
+\end{frame}
+
+\begin{frame}{Precision and Recall}
+\begin{minipage}[t]{0.3\textwidth}
+\vspace{-2cm}
+$$precision = \frac{TP}{TP+FP}$$
+\end{minipage}
+\begin{minipage}[t]{0.3\textwidth}
+$$recall= \frac{TP}{FN+TP}$$
+\end{minipage}
+\begin{minipage}[t]{0.3\textwidth}
+\vspace{2cm}
+$$F1 = \frac{2 \cdot precision\cdot recall}{precision+ recall}$$
+\end{minipage}
+\hfill
 \end{frame}
 
 \begin{frame}{Accuracy}
@@ -190,6 +206,25 @@ $$
 \includegraphics[width=0.90\textwidth]{avg_score_master}
 \end{frame}
 
+
+\begin{frame}
+\begin{table}[]
+\caption{Side chain grouping}
+\begin{tabular}{|l|l|}
+\hline
+Hydrophobic     & A,I,L,M,V \\ \hline
+Hydrophylic     & N,Q,S,T   \\ \hline
+Small turn      & G,P       \\ \hline
+disulfide       & C         \\ \hline
+Positive charge & H,K,R     \\ \hline
+Negative charge & D,E       \\ \hline
+Aromatic        & F,W,Y     \\ \hline
+\end{tabular}
+\end{table}
+\end{frame}
+
+
+
 \begin{frame}{Per class f1-score}
 \includegraphics[width=0.75\textwidth]{f1_score_master_per_class}
 \end{frame}
@@ -205,11 +240,11 @@ $$
 \end{center}
 \end{frame}
 
-\begin{frame}{Conclusions}
-\begin{itemize}
-\item [-] ANN is slow to train but fast to run.
-\item [-] Robots will rule the world
-\end{itemize}
-\end{frame}
+%\begin{frame}{Conclusions}
+%\begin{itemize}
+%\item [-] ANN is slow to train but fast to run.
+%\item [-] Robots will rule the world
+%\end{itemize}
+%\end{frame}
 
 \end{document}
