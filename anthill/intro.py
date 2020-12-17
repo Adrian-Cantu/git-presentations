@@ -38,11 +38,11 @@ qstat
 # If needed, the job can be killed using qdel
 
 #qdel [job-ID]
-qdel 6039617
+qdel 6039626
 
 # STDOUT is redirected to sgo and STDERR to sge.
 
-cat sgo/test.o6039618
+cat sgo/test.o6039626
 
 # ## cwd
 # -cwd tells SGE to use the current directory
@@ -115,3 +115,5 @@ which -a python
 # # extra tips
 # use -pe make 16 to take a full node for yourself.
 #
+
+qhost -F | grep -e HOSTNAME -e node
